@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Roll the Dice!</string>
+    <string name="title">Who Won ?</string>
+    <string name="rollButton">Roll the Dice!</string>
+    <string name="firstResult">_</string>
+    <string name="line">-</string>
+    <string name="secondResult">_</string>
+    <string name="leftWon">Left Side Won!!</string>
+    <string name="rightWon">Right Side Won!!</string>
+    <string name="dramStation">Draw</string>
+    <string name="resetButton">Reset</string>
+</resources>
